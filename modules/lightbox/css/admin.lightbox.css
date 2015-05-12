@@ -1,0 +1,28 @@
+
+#containerWrapper .hal-page-right {
+    margin: 4%;
+    width: 46%;
+    float: left;
+    border-right: 1px solid #ddd;
+}
+
+#containerWrapper .hal-page-left {
+    margin-top: 4%;
+    width: 40%;
+    float: left;
+}
+
+#containerWrapper .settings-title {
+    float: left;
+    margin-right: 4%;
+    width: 46%;
+}
+
+#containerWrapper .setting-element {
+    float: left;
+}
+
+#containerWrapper .settings-line {
+    margin-top: 4px;
+    width: 100%;
+}
