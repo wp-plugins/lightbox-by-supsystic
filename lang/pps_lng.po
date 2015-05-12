@@ -1,0 +1,850 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lightbox by Supsystic\n"
+"POT-Creation-Date: 2015-03-20 19:39+0200\n"
+"PO-Revision-Date: 2015-03-20 19:41+0200\n"
+"Last-Translator: \n"
+"Language-Team: supsystic.com <supsystic.team@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ..\n"
+
+msgid "Done"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+#: ../classes/field.php:170 ../classes/field.php:179 ../classes/field.php:184
+msgid "N/A"
+msgstr ""
+
+#: ../classes/field.php:277
+msgid "Add Checkbox"
+msgstr ""
+
+#: ../classes/field.php:282 ../classes/field.php:287
+msgid "Add Item"
+msgstr ""
+
+#: ../classes/field.php:293
+msgid "Add Radio Button"
+msgstr ""
+
+#: ../classes/field.php:311
+msgid "Dimensions"
+msgstr ""
+
+#: ../classes/field.php:314
+msgid "width"
+msgstr ""
+
+#: ../classes/field.php:316
+msgid "height"
+msgstr ""
+
+#: ../classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr ""
+
+#: ../classes/field.php:324
+msgid "Attributes"
+msgstr ""
+
+#: ../classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:95
+msgid "Address"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:97
+msgid "Country"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:184
+msgid "class"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:186 ../classes/tables/usage_stat.php:7
+msgid "id"
+msgstr ""
+
+#: ../classes/frame.php:135
+msgid "You have no permissions to view this page"
+msgstr ""
+
+#: ../classes/html.php:200
+msgid "Upload"
+msgstr ""
+
+#: ../classes/html.php:604
+msgid "ON"
+msgstr ""
+
+#: ../classes/html.php:605
+msgid "OFF"
+msgstr ""
+
+#: ../classes/html.php:629
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+msgid "Database error detected"
+msgstr ""
+
+msgid "Invalid ID"
+msgstr ""
+
+#: ../classes/model.php:209 ../modules/subscribe/models/subscribe.php:25
+#: ../modules/subscribe/models/subscribe.php:27
+msgid "Empty or invalid ID"
+msgstr ""
+
+#: ../classes/modInstaller.php:34
+#, php-format
+msgid "Move files for %s failed"
+msgstr ""
+
+#: ../classes/modInstaller.php:37
+#, php-format
+msgid "%s is not plugin module"
+msgstr ""
+
+#: ../classes/modInstaller.php:76
+msgid "Can not create module directory. Try to set permission to "
+msgstr ""
+
+#: ../classes/modInstaller.php:103
+msgid "No modules were found in XML file"
+msgstr ""
+
+#: ../classes/modInstaller.php:107
+msgid "Invalid XML file"
+msgstr ""
+
+#: ../classes/modInstaller.php:109
+msgid "No XML file were found"
+msgstr ""
+
+#: ../classes/modInstaller.php:128
+#, php-format
+msgid "Install %s failed"
+msgstr ""
+
+#: ../classes/modInstaller.php:134
+msgid "Error Activate module"
+msgstr ""
+
+#: ../classes/modInstaller.php:164
+msgid "Error Deactivation module"
+msgstr ""
+
+#: ../classes/modInstaller.php:185
+msgid "Error Activating module"
+msgstr ""
+
+#: ../classes/table.php:277
+msgid "Nothig to update"
+msgstr ""
+
+#: ../classes/table.php:293
+msgid "Database error. Please contact your developer."
+msgstr ""
+
+#: ../classes/validator.php:30
+#, php-format
+msgid "Invalid length for %s, max length is %s"
+msgstr ""
+
+#: ../classes/validator.php:43
+#, php-format
+msgid "Invalid numeric value for %s"
+msgstr ""
+
+#: ../classes/validator.php:71 ../modules/supsystic_promo/controller.php:39
+#, php-format
+msgid "Please enter %s"
+msgstr ""
+
+#: ../classes/validator.php:78 ../modules/supsystic_promo/controller.php:39
+#, php-format
+msgid "Please select %s"
+msgstr ""
+
+#: ../classes/validator.php:85 ../classes/validator.php:101
+#, php-format
+msgid "Invalid %s"
+msgstr ""
+
+#: ../classes/validator.php:88
+#, php-format
+msgid "%s is already registered"
+msgstr ""
+
+#: ../classes/tables/modules.php:7 ../classes/tables/modules_type.php:8
+msgid "Label"
+msgstr ""
+
+#: ../classes/tables/modules.php:8
+msgid "Type"
+msgstr ""
+
+#: ../classes/tables/modules.php:9
+msgid "Active"
+msgstr ""
+
+#: ../classes/tables/modules.php:10
+msgid "Params"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+#: ../classes/tables/modules.php:14
+msgid "External plugin directory"
+msgstr ""
+
+#: ../classes/tables/modules_type.php:7
+msgid "ID"
+msgstr ""
+
+#: ../classes/tables/usage_stat.php:8
+msgid "code"
+msgstr ""
+
+#: ../classes/tables/usage_stat.php:9
+msgid "visits"
+msgstr ""
+
+#: ../classes/tables/usage_stat.php:10
+msgid "spent_time"
+msgstr ""
+
+#: ../classes/tables/usage_stat.php:11
+msgid "modify_timestamp"
+msgstr ""
+
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+msgid "An unknown error occurred"
+msgstr ""
+
+msgid "Testing"
+msgstr ""
+
+msgid "Enter Name"
+msgstr ""
+
+msgid "Empty Base ID"
+msgstr ""
+
+msgid "Back to Main PopUp"
+msgstr ""
+
+msgid "Add New Test"
+msgstr ""
+
+msgid "Test PopUp Name"
+msgstr ""
+
+msgid "Delete selected"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid ""
+"You have no Test PopUps for now. <a href=\"#\" class=\"lbsAbAddNew\" style="
+"\"font-style: italic;\">Create</a> your first Test!"
+msgstr ""
+
+msgid "Layered Style"
+msgstr ""
+
+msgid "Enable Layered PopUp Style"
+msgstr ""
+
+msgid ""
+"By default all PopUps - have modal style: it appear on user screen over the "
+"whole site. Layered style allow you to show your PopUp - on selected "
+"position: top, bottom, etc. and not over your site - but right near your "
+"content."
+msgstr ""
+
+msgid "Select position for your PopUp"
+msgstr ""
+
+msgid "Top Left"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Top Right"
+msgstr ""
+
+msgid "Center Left"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Center Right"
+msgstr ""
+
+msgid "Bottom Left"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Bottom Right"
+msgstr ""
+
+msgid ""
+"Your license is expired. Once you extend your license - you will be able to "
+"Update PRO version. To extend PRO version license - follow <a href=\"%s\" "
+"target=\"_blank\">this link</a>, then - go to <a href=\"%s\">License</a> tab "
+"anc click on \"Re-activate\" button to re-activate your PRO version."
+msgstr ""
+
+msgid ""
+"Your license for PRO version of %s plugin - expired. You can <a href=\"%s\" "
+"target=\"_blank\">click here</a> to extend your license, then - go to <a "
+"href=\"%s\">License</a> tab anc click on \"Re-activate\" button to re-"
+"activate your PRO version."
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "Please enter your License Key"
+msgstr ""
+
+msgid "Please enter your Email address"
+msgstr ""
+
+msgid ""
+"There was a problem with sending request to our autentification server. "
+"Please try latter."
+msgstr ""
+
+msgid "License for plugin %s will expire today."
+msgstr ""
+
+msgid "License for plugin %s will expire tomorrow."
+msgstr ""
+
+msgid "License for plugin %s will expire in %d days."
+msgstr ""
+
+msgid ""
+"Congradulations! PRO version of %s plugin is activated and working fine!"
+msgstr ""
+
+msgid ""
+"Your license for PRO version of %s plugin - expired. You can <a href=\"%s\" "
+"target=\"_blank\">click here</a> to extend your license, then - click on "
+"\"Re-activate\" button to re-activate your PRO version."
+msgstr ""
+
+msgid ""
+"Congradulations! You have successfully installed PRO version of %s plugin. "
+"Final step to finish Your PRO version setup - is to enter your Email and "
+"License Key on this page. This will activate Your copy of software on this "
+"site."
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid ""
+"Your email address, used on checkout procedure on <a href=\"%\" target="
+"\"_blank\">%s</a>"
+msgstr ""
+
+msgid "License Key"
+msgstr ""
+
+msgid ""
+"Your License Key from your account on <a href=\"%\" target=\"_blank\">%s</a>"
+msgstr ""
+
+msgid "Re-activate"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid ""
+"Show when user try to exit from your site. <a target=\"_blank\" href=\"%s"
+"\">Check example.</a>"
+msgstr ""
+
+msgid "On Exit from Site"
+msgstr ""
+
+#: ../modules/adminmenu/mod.php:12
+msgid "Settings"
+msgstr ""
+
+#: ../modules/mail/controller.php:7
+msgid "Now check your email inbox / spam folders for test mail."
+msgstr ""
+
+#: ../modules/mail/mod.php:37
+msgid "Can not send email - problem with send server"
+msgstr ""
+
+#: ../modules/mail/mod.php:50
+msgid "Mail"
+msgstr ""
+
+#: ../modules/mail/mod.php:52
+msgid "Mail function tested and work"
+msgstr ""
+
+#: ../modules/mail/mod.php:53
+msgid "Notify Email"
+msgstr ""
+
+#: ../modules/mail/mod.php:53
+msgid "Email address used for all email notifications from plugin"
+msgstr ""
+
+#: ../modules/mail/models/mail.php:7
+msgid "Test email functionslity"
+msgstr ""
+
+#: ../modules/mail/models/mail.php:8
+#, php-format
+msgid "This is test email for testing email functionality on your site, %s."
+msgstr ""
+
+#: ../modules/mail/models/mail.php:15
+msgid "Empty email address"
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:3
+msgid "Send test email to"
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:10
+msgid "Send test"
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:12
+msgid "This option allow you to check your server mail functionality"
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:15
+msgid "Did you received test email?"
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:18
+msgid "Yes! It work!"
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:22
+msgid "No, I need to contact my hosting provider with mail function issue."
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:26
+msgid "Great! Mail function was tested and working fine."
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:29
+msgid ""
+"Bad, please contact your hosting provider and ask them to setup mail "
+"functionality on your server."
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:47
+#, php-format
+msgid "Turned On %s"
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:48
+#, php-format
+msgid "Turned Off %s"
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:69
+msgid "Save"
+msgstr ""
+
+#: ../modules/options/mod.php:84
+msgid "General"
+msgstr ""
+
+#: ../modules/options/mod.php:86
+msgid "Send usage statistics"
+msgstr ""
+
+#: ../modules/options/models/modules.php:32
+msgid "Module Updated"
+msgstr ""
+
+#: ../modules/options/models/modules.php:47
+msgid "Module Update Failed"
+msgstr ""
+
+#: ../modules/options/models/modules.php:50
+msgid "Error module ID"
+msgstr ""
+
+#: ../modules/options/models/options.php:63
+msgid "Empty data to save option"
+msgstr ""
+
+#: ../modules/options/views/tpl/optionsAdminMain.php:18
+msgid "Main page Go here!!!!"
+msgstr ""
+
+#: ../modules/pages/views/tpl/deactivatePage.php:33
+msgid "Delete Plugin Data (options, setup data, database tables, etc.)"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Done, redirecting to new PopUp..."
+msgstr ""
+
+msgid "Add New PopUp"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Show All PopUps"
+msgstr ""
+
+msgid "img/preview/"
+msgstr ""
+
+msgid "Please select PopUp template from list below"
+msgstr ""
+
+msgid "Please enter Name"
+msgstr ""
+
+msgid "Enter your Facebook page URL"
+msgstr ""
+
+msgid "Enter your video URL"
+msgstr ""
+
+msgid "Common"
+msgstr ""
+
+msgid "Facebook Like"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Provided data was corrupted"
+msgstr ""
+
+msgid "Modify PopUp Template"
+msgstr ""
+
+msgid "Can not find required PopUp"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Mobile"
+msgstr ""
+
+msgid "Tablet"
+msgstr ""
+
+msgid "Desktop PC"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Animation"
+msgstr ""
+
+msgid "Subscribe"
+msgstr ""
+
+msgid "Social"
+msgstr ""
+
+msgid "Main"
+msgstr ""
+
+msgid "Design"
+msgstr ""
+
+msgid "Texts"
+msgstr ""
+
+msgid "Facebook page URL"
+msgstr ""
+
+msgid ""
+"The absolute URL of the Facebook Page that will be liked. This is a required "
+"setting."
+msgstr ""
+
+msgid "Color scheme"
+msgstr ""
+
+msgid "Light"
+msgstr ""
+
+msgid "Dark"
+msgstr ""
+
+msgid "The color scheme used by the plugin. Can be \"light\" or \"dark\"."
+msgstr ""
+
+msgid "Force wall"
+msgstr ""
+
+msgid ""
+"For \"place\" Pages (Pages that have a physical location that can be used "
+"with check-ins), this specifies whether the stream contains posts by the "
+"Page or just check-ins from friends."
+msgstr ""
+
+msgid "Header"
+msgstr ""
+
+msgid ""
+"Specifies whether to display the Facebook header at the top of the plugin."
+msgstr ""
+
+msgid "Show border"
+msgstr ""
+
+msgid "Specifies whether or not to show a border around the plugin."
+msgstr ""
+
+msgid "Show faces"
+msgstr ""
+
+msgid ""
+"Specifies whether to display profile photos of people who like the page."
+msgstr ""
+
+msgid "Stream"
+msgstr ""
+
+msgid "Specifies whether to display a stream of the latest posts by the Page."
+msgstr ""
+
+msgid "Puff"
+msgstr ""
+
+msgid "Vanish"
+msgstr ""
+
+msgid "Open down left"
+msgstr ""
+
+msgid "Open down right"
+msgstr ""
+
+msgid "Perspective down"
+msgstr ""
+
+msgid "Perspective up"
+msgstr ""
+
+msgid "Slide down"
+msgstr ""
+
+msgid "Slide up"
+msgstr ""
+
+msgid "Swash"
+msgstr ""
+
+msgid "Foolis"
+msgstr ""
+
+msgid "Tin right"
+msgstr ""
+
+msgid "Tin left"
+msgstr ""
+
+msgid "Tin up"
+msgstr ""
+
+msgid "Tin down"
+msgstr ""
+
+msgid "Boing"
+msgstr ""
+
+msgid "Space right"
+msgstr ""
+
+msgid "Space left"
+msgstr ""
+
+msgid "Space up"
+msgstr ""
+
+msgid "Space down"
+msgstr ""
+
+msgid "None (standard)"
+msgstr ""
+
+msgid ""
+"Change Template to any other from list bellow or <a class=\"button\" href="
+"\"%s\">return to Pop-Up edit</a>"
+msgstr ""
+
+msgid "Choose Pop-Up Template. You can change it later."
+msgstr ""
+
+msgid "PopUp Name"
+msgstr ""
+
+msgid "type"
+msgstr ""
+
+msgid "Change Template"
+msgstr ""
+
+msgid "Are you sure want to change your current template - to "
+msgstr ""
+
+msgid "Clear All"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid ""
+"You have no PopUps for now. <a href=\"%s\" style=\"font-style: italic;"
+"\">Create</a> your PopUp!"
+msgstr ""
+
+msgid "Loading preview..."
+msgstr ""
+
+msgid "Back to top"
+msgstr ""
+
+msgid "Choose PopUp animation style"
+msgstr ""
+
+msgid "current style"
+msgstr ""
+
+msgid "Animation Duration"
+msgstr ""
+
+msgid "miliseconds"
+msgstr ""
+
+msgid ""
+"Edit this ONLY if you know basics of HTML, CSS and have been acquainted with "
+"the rules of template editing described <a target=\"_blank\" href=\"%s"
+"\">here</a>"
+msgstr ""
+
+msgid "CSS code"
+msgstr ""
+
+msgid "HTML code"
+msgstr ""
+
+msgid "Video URL"
+msgstr ""
+
+msgid "Copy and paste here URL of your video source"
+msgstr ""
+
+msgid "Width"
+msgstr ""
+
+msgid "Max width for percentage - is 100"
+msgstr ""
+
+msgid "Percents"
+msgstr ""
+
+msgid "Pixels"
+msgstr ""
+
+msgid "Height"
+msgstr ""
+
+msgid "Video Autoplay"
+msgstr ""
+
+#: ../modules/popup/views/tpl/popupEditAdminDesignOpts.php:51
+msgid "Play video - right after PopUp show"
+msgstr ""
