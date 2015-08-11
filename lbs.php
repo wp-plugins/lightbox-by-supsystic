@@ -3,7 +3,7 @@
  * Plugin Name: Lightbox by Supsystic
  * Plugin URI: https://supsystic.com
  * Description: Nice solution to add responsive lightbox (overlay) to display images, videos and galleries. Attract users with cool effects.
- * Version: 1.0.3
+ * Version: 1.0.4
  * Author: supsystic.com
  * Author URI: https://supsystic.com
  **/

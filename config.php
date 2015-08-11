@@ -47,7 +47,7 @@
 	define('LBS_EOL', "\n");
     
     define('LBS_PLUGIN_INSTALLED', true);
-    define('LBS_VERSION', '1.0.3');
+    define('LBS_VERSION', '1.0.4');
     define('LBS_USER', 'user');
     
     define('LBS_CLASS_PREFIX', 'lbsc');

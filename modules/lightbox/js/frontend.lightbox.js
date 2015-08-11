@@ -19,6 +19,14 @@
         this.prepareSettings();
 
         this.$container.find('.supsystic-fancybox').fancybox(this.settings);
+
+        this.$container.find('a.lbs-video').each(function() {
+            this.href = this.href.replace(new RegExp("watch\\?v=", "i"), 'v/');
+        });
+        this.$container.find('a.lbs-video').fancybox({
+            'type'      : 'swf',
+            'swf'       : {'wmode':'transparent','allowfullscreen':'true'}
+        });
     };
 
     Controller.prototype.prepareSettings = function() {

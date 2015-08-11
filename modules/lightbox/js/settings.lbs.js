@@ -11,7 +11,7 @@
         var self = this;
 
         this.$btnSave.on('click', function() {
-            $(this).sendFormLbs({
+            $('#lbsSettingsForm').sendFormLbs({
                 btn: self.$btnSave,
                 onSuccess: function(response) {
 
